@@ -1,3 +1,9 @@
+Eye-Hand-Emotion Tracker is a real-time computer vision script that enables human-computer interaction using eye movements, hand gestures, and facial emotions.
+Using MediaPipe for face and hand landmarks, and FER for emotion detection, the script can perform actions such as opening applications, displaying gestures, and tracking emotional states—all through natural user inputs via webcam.
+This project demonstrates multimodal input control, combining blinks, gestures, and emotions for intuitive PC interaction.
+
+
+
 <p align="center">
   <!-- Example using free icons (you can replace with your own logo in /assets/logo.png) -->
   <img src="https://img.icons8.com/fluency/96/visible.png" width="80"/>
