@@ -45,7 +45,7 @@ This project demonstrates multimodal input control, combining blinks, gestures, 
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Ahmad-GoCode/eye-hand-emotion-tracker.git
+   git clone https://github.com/Ahmed-GoCode/eye-hand-emotion-tracker.git
    cd eye-hand-emotion-tracker
 
 pip install -r requirements.txt
